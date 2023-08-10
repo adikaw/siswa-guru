@@ -20,4 +20,4 @@ Project PHP Create, Read, Update, Delete. Sekolah Esemka
 1. Jika ingin Clone 
 
    ```bash
-   git clone https://github.com/danisadika/sekolah-esemka.git
+   https://github.com/danisadika/siswa-guru.git
