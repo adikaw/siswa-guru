@@ -1,4 +1,4 @@
-# Website Sekolah Esemka
+# Website Siswa dan Guru
 Project PHP Create, Read, Update, Delete. Sekolah Esemka
 
 ## Fitur
