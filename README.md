@@ -1,5 +1,5 @@
 # Website Siswa dan Guru
-Project PHP Create, Read, Update, Delete. Sekolah Esemka
+Project PHP Create, Read, Update, Delete. Siswa dan Guru
 
 ## Fitur
 - Register
